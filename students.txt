@@ -1,0 +1,70 @@
+Roll Number: 10; First Name: Jason; Last Name: Dibbert; GPA: 2.5;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: A;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: B;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: C;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: D;
+
+Roll Number: 61; First Name: Augusta; Last Name: Greenholt; GPA: 4.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: A;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: A;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: A;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: A;
+
+Roll Number: 11; First Name: Ivah; Last Name: Prohaska; GPA: 3.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: B;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: B;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: B;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: B;
+
+Roll Number: 23; First Name: Cameron; Last Name: O'Conner; GPA: 2.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: C;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: C;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: C;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: C;
+
+Roll Number: 49; First Name: Allie; Last Name: Goldner; GPA: 2.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: D;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: F;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: A;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: B;
+
+Roll Number: 26; First Name: General; Last Name: Rippin; GPA: 4.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: A;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: A;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: A;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: A;
+
+Roll Number: 22; First Name: Haylie; Last Name: Ledner; GPA: 3.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: B;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: B;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: B;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: B;
+
+Roll Number: 16; First Name: Dedrick; Last Name: Rutherford; GPA: 2.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: C;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: C;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: C;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: C;
+
+Roll Number: 14; First Name: Brendan; Last Name: Ledner; GPA: 2.0;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: D;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: F;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: A;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: B;
+
+Roll Number: 52; First Name: Kirstin; Last Name: Ebert; GPA: 2.5;
+Courses:
+Course Code: CS101; Course Name: Intro to Computer Science; Credits: 3; Grade: A;
+Course Code: CS102; Course Name: Data Structures; Credits: 3; Grade: B;
+Course Code: CS103; Course Name: Algorithms; Credits: 3; Grade: C;
+Course Code: CS104; Course Name: Operating Systems; Credits: 3; Grade: D;
+
